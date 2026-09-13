@@ -16,7 +16,7 @@
 ---
 
 ### 🧠 About Me
--    I am a 3rd year BCA student from MIET Jammu currently learning about GenAi,Agentic Ai,Statics & Machine learning .
+-    I am a 3rd year BCA student from MIET Jammu currently learning about Backend development,GenAi,Agentic Ai,Statics & Machine learning .
 - 🔭 Building **Vishwamitra** — AI learning platform for Indian school students (UN SDG Goal 4), with **The Tech Visualizers**
 - 🛠️ Building **GetQuickJob** — full-stack job marketplace
 - 🤖 Focused on GenAI, Agentic AI, Automation, RAG & Automation,Web Dev,Statics & Machine learning .
